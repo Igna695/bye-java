@@ -7,7 +7,7 @@ jdk:
 notifications:
   email:
     recipients:
-      - edubsteep@gmail.com
+      - igna695@gmail.com
     on_success: always
     on_failure: never
 script:
